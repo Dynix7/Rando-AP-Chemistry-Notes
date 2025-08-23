@@ -1,0 +1,434 @@
+i'll finish linking videos later
+
+
+AP Chemistry Notes
+
+Unit 1:
+
+
+
+Mass Percent-What percent of a molecule is each element
+
+    Take the atomic mass of each element (Multiply by amount of atoms)
+    then add them together: TOTAL MASS
+    Individual Total Atomic Mass (per atom)/ Total Mass
+
+    EX: MgCl2
+    24.31 + 70.90(35.45x2) = 95.21 amu
+    Mg = 24.31/95.21 = 25.53 %
+    Cl = 70.90/95.21 = 74.47 %
+
+Mass Spectrometry-Graph of the masses of the isotopes (if they exist)
+    EX: Two bars = 2 isotopes
+    Find the average atomic mass based on their Relative abundence
+    Atomic Mass * Relative abundence: THEN add them up
+
+
+ Electron Configuriations
+
+RESOURCES
+RESOURCES
+RESOURCES
+ Crash course, professor dave explains=GOAT go watch separate video about them
+
+EVERY configuration HAS 2 ELECRTONS
+
+n-number: Electron's main energy level/Shell
+
+l = n-1
+    Describes the shape of the electron orbital
+    0: S orbital
+    1: P orbital
+    2: D orbital
+    3: F orbital
+
+The shells are filled up at each level starting at S until they reach
+the max configurations for the given shell then move onto the nect shell
+
+For example an atom with 3 electrons will completely fill up the first shell
+S orbital so it will move onto the 2nd shell S orbital.
+
+An atom with 5 electrons will fill up the 1st shell and the 2nd S orbital 
+so it move to the P orbital in the 2nd shell
+
+Possible Configurations: -l to l
+EX: D orbital is l number is 2 so possible orbitals are
+-2 -1 0 1 2   TOTAL: 5 Configurations
+
+
+S - Sphere shape 
+    1 POSSIBLE Configuriations
+
+P - Dumbell/infinity shape
+    3 POSSIBLE Configuriations ROTATED ALONG XYZ AXIS
+
+D - Complex shape
+    5 Configuriations
+
+F - Complex shape
+    7 Configuriations
+
+As a result the all of the P shapes can hold 6 electrons per shell
+since there are 2 electrons per configuration with 3 configurations
+THIS ALSO APPLIES TO ALL THE OTHER SHAPES
+
+
+EX:
+Hydrogen will be 1s^1
+1 = first Shell
+s = sphere shape
+^1 = 1 Electron
+
+Helium will be 1s^2
+1 = First Shell
+s = Sphere shape
+^2 = 2 electrons
+
+Beryillyum(3 electrons) will be 1s^2 2s^1
+First shell S orbital mpletely full
+Second shell S orbital then filled with 1 electron
+
+If there were more it will finish filling the S electron orbital then begin
+filling up the next P orbital.
+
+
+
+
+Atomic Radius
+    Greatest at the LEFT and BOTTOM of the table
+    
+    Bottom: Greatest # of electron shells
+    Left: Least number of Protons 
+    So weak attraction
+
+
+Ionic Radius
+
+    Cations (Positive): Tend to be Smaller
+        More less electrons so Smaller
+
+    Anions (Negative): Tend to be bigger
+        More electrons so bigger
+
+    More Protons = Greater pull between protons and electrons
+
+
+First Ionization Energy
+
+    Essentially Energy to remove the last electron from the atom
+    Greatest at RIGHT and TOP of the tablbe
+
+    Top: Fewest amount of electron shells so closer to protons
+    Right: Have greater "effective nuclear charge;" more protons to attract electrons
+
+
+Photoelectron Spectrometry:
+
+    X-axis: Relative Binding Energy per electrons (Joules)
+    Y-axis: Relative Number of electrons
+    
+    Read left to right, each peak represents an electron configuration
+    Height of the peak = # of electrons 
+    Ex: More electrons = Higher peak
+
+    Generally: The more protons, the greater binding energy (so more left)
+
+
+
+UNIT 2
+
+Lewis dot electron diagrams
+
+Draw pairs of the valence electrons around each atom
+Replace the shared electrons/bonds with a line
+
+
+Types of Bonds:
+    Sigma Bonds
+    Pi Bonds
+
+    Sigma bonds-Every Single Bond and ONE of the bonds in a double bond is
+     a Sigma bond
+
+    Pi bonds-ONE of the bonds in a double is a PI, TWO in a Triple Bond
+
+    Single Bond: Sigma Bond
+    Double Bond: 1 Sigma, 1 Pi
+    Triple Bond: 1 Sigma, 2 Pi
+
+Hybridization:
+    Number of Electron domains = Electrons pairs and bonds
+
+    4 Electron domains = sp^3
+        Valence Shell: First the s configuration is bonded, then the p configurations
+
+    3 Electron Domains = sp^2
+        Valence Shell: First the s configuration is bonded, then the two other p configurations
+
+    2 Electron Domains = sp^1
+        Valence Shell: First s configuration is bonded, then the P configuration
+
+Molecular Geometry & Bond angles
+    
+    2 Bonds/Bent: 104.5 degrees
+
+    3 Bonds (with 0 lone pairs)/Trigonal Planar: 120 degrees
+
+    Multiple Central Atoms= Multiple Molecular Geometries
+    Ex: Tetrahedral(4 bonds):109.5, Trigonal Planar: 120, Bent: 104.5
+
+
+Polarity
+
+    NOT ABOUT THE SYMMETRY OF THE MOLECULE
+    ABOUT IF THERE's AN UNBALANCED REGION OF ELECTRONS
+
+    Bent Structure = Polar
+    Unbalanced region of electrons = Polar
+
+
+Intermolecular Forces
+
+    Polar: Dipole-dipole Forces
+        Kinda also includes Hydrogen Bonding
+
+    Everything: London Dispersion Forces
+
+
+Melting Points
+    THINK ABOUT IN TERMS OF charge
+
+    Greater Magnitude of charge = Higher Melting Points
+        ex: Na+Cl- and Na2+2S-2
+        Na2S would have a higher melting Points
+    
+    Smaller Molecules = Higher Melting Points
+
+
+Ionic Compounds form a 3 Dimensional Lattice
+
+In water, the H(parital +) and O(partial -) will pull apart the ions
+
+
+
+UNIT 3
+
+Gas Laws
+PV = nRT
+Presssure * Volume = # of Moles * Universal Gas Constant * Temperature
+
+Converting Grams and Molar Mass
+Molar Mass is grams/mole (grams per mole)
+
+
+Spectrophotometry (Concentration of Molecules and the absorbanence at each concentration)
+
+    Run a Blank (aka 0 concentration and 0 absorbanence)
+    Then have several known concentrations and their coressponding absorbanences
+    Next, draw the line of best fit 
+    Now you can determine absorbance of unknown concentrations :D 
+
+
+
+Net Ionic Equations
+
+IMPORTANT: Metal ions react WITH metal ions; non-metals react WITH non-metal ions
+
+There can be spectator ions these are NOT A PART OF THE EQUATION
+
+You need to balancce the amounts of each atom of the products and the reactants
+
+EX:
+    Mg, Cu2+ and Cl-
+    Cl- is an spectator ion since its an non metal
+
+    Mg -> Mg2+ + 2e-  Oxidation- Losing Electrons
+    2e- + Cu2+ -> Cu  Reduction- Gaining Electrons
+    
+    Mg(s) + Cu2+(aq) -> Mg2+(aq) + Cu(s)
+
+
+Burning: Includes adding OXYGEN to an equation
+
+EX:
+    Na + O2 -> Na2O
+    To balance oxygen we will mutiply right side by 2
+
+    Na + O2 -> 2 Na2O
+    To balance sodium will we multiply sodium by 4
+
+    4 Na + O2 -> 2 Na2O
+    Final equation
+
+EX:
+    C3H8 + O2 -> CO2 + H2O
+    To balance C multiply by 3. To balance H multiply by 4
+
+    C3H8 + O2 -> 3 CO2 + 4 H2O
+    To balance oxygen multiply O2 by 5
+
+    C3H8 + 5 O2 -> 3 CO2 + 4 H2O
+    Final equation
+
+Sodium + Potassium OR Nitrate = Spectator ions
+Ions usually aqueous (If in a solution)
+
+
+Stoichiometry
+
+    idk bro just use a lot of cancelling units to covert to Moles then proper units, then back to desired
+    will do more research so I have better understanding
+
+    1. Get an balanced equation for an problem
+    2. Write your given information on the left and the wanted info on the right
+    3. Convert to Moles
+    4. Convert using an mole ratio of elements (from equation)
+    5. Convert to the final unit
+
+
+UNIT 5 
+
+KINETICS and RATE Laws
+PROFESSOR DAVE EXPLAINS VIDEO ON KINETICS IS VERY HELPFUL FOR THIS SO WATCH THAT
+https://www.youtube.com/watch?v=wYqQCojggyM
+
+
+To find the order of reaction of a molecule you need to find a trial were only that
+reactant changes. Then you can look at the initial rate of reaction (reaction rate
+ at that given moment) to compare them.
+
+Initial Rate of Reactions should be in Moles/second
+
+
+0th Order reactions  [A]^0
+No effect
+
+
+1st order reactions :)  [A]^1
+
+The initial rate of reaction depends on the concentration linearly of one reactant
+Ex: Doubling of the reactant A2 results in reaction rate doubling from 1 to 2
+
+
+2nd order reaction  [A]^2
+
+The initial rate of reaction depends on the concenetration an reactant squared.
+Ex:
+    You double the amount of reactant D2 this results in 2^2 increase in imitial reaction
+    rate. Aka a quadrupling of the initial reaction rate. 
+    If you triple the reactant amount, it would result in a 3^2 increase in initial reaction
+    rate.
+
+
+ALSO overall reaction order is the sum of the orders of the reactants
+
+
+HOW TO WRITE THE RATE Laws
+
+    Rate would be equal to k (rate constant) times the first reactant power of the reaction order 
+    times the next reactant to the power of the reaction order and so on.
+
+    Rate = k * [Reactant1 Moles]^order * [Reactamt2 Moles]^order and so on
+
+
+    With a reactants A and B in moles, first order and second order respectively. It would be
+    (btw just take values from any trial)
+
+    Rate = k * [A Moles]^1 * [B Moles]^2
+
+
+
+HOW TO FIND k (reaction constant)
+
+    Ignoring the everything else but the moles, using that you get Moles to some power (M^3)
+    Now you must convert those units into Moles/Seconds.
+
+    Using our example above:
+
+    Rate = k * [A Moles]^1 * [B Moles]^2
+    Focusing on only the moles you get
+
+    Moles^3
+    now we need to get to Moles/Second by diving by Moles^2 * Seconds
+
+    Moles^3/Moles^2 * Seconds = Moles/Seconds
+
+    So here you get 1/Moles^2 * Seconds 
+    also represented as Moles^-2 * seconds^-1
+
+    Now you can just solve the for the value by dividing Rate/(A * B^2) for this case 
+    So k = Rate/(A*B^2) * Moles^-2 * Seconds^-1 
+    (except A and B would be actual values)
+
+
+Identifying Order using Graphs
+
+    0th Order
+    k[A]^0 
+
+    Graph:
+    X-axis: time
+    Y-axis: [A]
+    Linear decrease (y=-x)
+
+
+    1st Order
+    k[A]^1
+
+    Graph:
+    X-axis: Time 
+    Y-axis: ln[A]
+    Linear decrease (y=-x)
+
+
+    2nd Order
+    k[A]^2
+    
+    Graph:
+    X-axis: Time 
+    Y-axis: 1/[A]
+    Linear Increase (y=x)
+
+    By plotting [A], ln[A], 1/[A] you can identify which one gives you a straight line
+    and that would be the reaction order 
+
+    The rate constant would be equal to the slope of the straight line graphically
+
+
+Reaction Mechanisms
+
+    Reaction Intermediates
+
+    Molecules that are produced in a early step and then used in a later step
+    EX:
+        BF3 + O2 -> BF2 + O2F
+        BF2 + O2 -> O2F2 + B
+
+        Here you can see that BF2 is an intermdeiate since it is used up and then
+        is consumed later
+
+        You can also add them up to get the overall balanced equation of:
+
+
+        BF3 + BF2 + 2 O2 -> BF2 + O2F + O2F2 + B
+        Then you can see that the intermediate BF2 is on both sides so you can just 
+        remove it, getting
+
+        BF3 + 2 O2 -> O2F + O2F2 + B
+
+
+    Rate Determining Step
+
+        This will be the slowest process/step in the reaction, acting as a bottleneck
+        The rate equation is usually determined from this step.
+        Usually determined by looking at rate laws.
+
+        A lot of the time it would be the first step
+    
+    The Rate law for the overall reaction is the rate law of the slowest step
+
+
+
+UNTI 6: THERMOCHEMISTRY
+
+
