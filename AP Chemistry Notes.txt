@@ -3,9 +3,61 @@ i'll finish linking videos later
 
 AP Chemistry Notes
 
+Unit 0 Kinda
+
+
+Moles (What are they?)
+
+    Moles can often be hard to understand and it took like an hour for me to grasp
+    it fully cuz im dense.
+
+    So I recommend watching the following videos:
+
+    1. Steve Mould-An Actually Good Explanation of Moles: https://youtu.be/Z_TjGRPPR9Q
+    2. Organic Chemistry Tutor-Introduction to Moles: https://youtu.be/EowJsC7phzw
+    3. Professor Dave Explains-The Mole: Avogadro's Number and Stoichiometry: https://youtu.be/H3VKLRNAQuY
+
+    A mole is about 6.022 * 10^23
+    6.022 * 10^23 is also known as Avogadro's Number
+
+    However, this way of thinking about is unintuitive. So I perfer thinking
+    about it as a quantity, similar to a dozen.
+    For example with molecules A, B, and C
+
+    A + B -> C
+    We can also say
+
+    100 A + 100 B -> 100C
+    similarly we can also say
+
+    1 Mole A + 1 Mole B -> 1 Mole C
+
+    However, why don't we just say something like 100 A?
+    That's because when doing chemistry in real life, 100 A would be something like 0.00000000001 grams
+    and we usually don't do chemistry with such small amounts like that, so we use moles.
+    
+    Now, what is the mass of 1 mole of a element like Lithium?
+
+    For this we need to look at periodic table, we can see that one lithium atom is 7.0 atomic mass units(amu)
+    The mole was "designed" in a way such that 1 mole would would be equal to the atomic weight
+    of the that element in grams
+
+    So, 1 mole of Lithium would be 7 grams. With this we can see that 1 mole of Iron would be 55.84 grams since
+    the amu of Iron of the periodic table is 55.84
+
+
+    As a result of this, we can represent amu as grams/mole (grams per mole).
+    This is also known as molar mass
+    EX:
+        So Lithium would be 7.0 grams/mole, or have a molar mass of 7.0
+    
+    This can also be used to convert grams into moles.
+    EX:
+        7.0 grams Lithium * (1 mole/7 grams) = 1 mole
+        This is basically dividing by 7
+
+
 Unit 1:
-
-
 
 Mass Percent-What percent of a molecule is each element
 
