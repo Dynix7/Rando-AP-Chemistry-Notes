@@ -1,5 +1,10 @@
 i'll finish linking videos later
 
+These are mainly based off of:
+1. Jeremey Krug-AP Chemistry Cram Session 2025: https://www.youtube.com/watch?v=iKSqmB6mUh8
+2. Cararra-AP Chemistry Playlsit: https://www.youtube.com/watch?v=N5b7RcYNc2w&list=PLtLxhThTxJMWVs29UMoY0FwQ8eX8M3E8L
+
+additional videos that I found helpful will also linked for each section
 
 AP Chemistry Notes
 
@@ -8,7 +13,7 @@ Unit 0 Kinda
 
 Moles (What are they?)
 
-    Moles can often be hard to understand and it took like an hour for me to grasp
+    Moles can often be hard to understand like it took like an hour for me to grasp
     it fully cuz im dense.
 
     So I recommend watching the following videos:
@@ -17,8 +22,8 @@ Moles (What are they?)
     2. Organic Chemistry Tutor-Introduction to Moles: https://youtu.be/EowJsC7phzw
     3. Professor Dave Explains-The Mole: Avogadro's Number and Stoichiometry: https://youtu.be/H3VKLRNAQuY
 
-    A mole is about 6.022 * 10^23
-    6.022 * 10^23 is also known as Avogadro's Number
+    A mole = 6.022 * 10^23
+    6.022 * 10^23 is known as Avogadro's Number
 
     However, this way of thinking about is unintuitive. So I perfer thinking
     about it as a quantity, similar to a dozen.
@@ -57,6 +62,7 @@ Moles (What are they?)
         This is basically dividing by 7
 
 
+
 Unit 1:
 
 Mass Percent-What percent of a molecule is each element
@@ -76,75 +82,109 @@ Mass Spectrometry-Graph of the masses of the isotopes (if they exist)
     Atomic Mass * Relative abundence: THEN add them up
 
 
- Electron Configuriations
+Electron Configuriations
 
-RESOURCES
-RESOURCES
-RESOURCES
- Crash course, professor dave explains=GOAT go watch separate video about them
+Videos that are helpful:
+HIGHLY RECCOMENDED Professor Dave Explains-Quantum Numbers, Atomic Orbitals, and Electron Configurations: https://www.youtube.com/watch?v=Aoi4j8es4gQ
+Organic Chemistry Tutor-Electron Configuration - Basic introduction: https://www.youtube.com/watch?v=NIwcDnFjj98
+
 
 EVERY configuration HAS 2 ELECRTONS
 
-n-number: Electron's main energy level/Shell
 
-l = n-1
+Defining values (Known as Quantum Numbers)
+
+n: Electron's main energy level/Shell
+    Higher number = more energy
+
+ℓ = n-1
     Describes the shape of the electron orbital
-    0: S orbital
-    1: P orbital
-    2: D orbital
-    3: F orbital
+    0: S orbital shape
+    1: P orbital shape
+    2: D orbital shape
+    3: F orbital shape
 
-The shells are filled up at each level starting at S until they reach
-the max configurations for the given shell then move onto the nect shell
+m 
+    Describes the number of possible configurations
+    m: -ℓ to ℓ (Its L btw not 1)
 
-For example an atom with 3 electrons will completely fill up the first shell
-S orbital so it will move onto the 2nd shell S orbital.
+    EX: D orbital's ℓ number is 2 so possible orbitals are
+    -2 -1 0 1 2   TOTAL: 5 Configurations
 
-An atom with 5 electrons will fill up the 1st shell and the 2nd S orbital 
-so it move to the P orbital in the 2nd shell
 
-Possible Configurations: -l to l
-EX: D orbital is l number is 2 so possible orbitals are
--2 -1 0 1 2   TOTAL: 5 Configurations
+s (This is per each electron)
+    Describes the spin of each electron
+
+    s = +1/2 OR -1/2
+    Can either be -1/2 or +1/2
+    In a each configuration, there are a max of two electrons (stated above), in this
+    1 electron will ALWAYS be +1/2
+    1 electron will ALWAYS be -1/2
+
+
+
+Pauli Exclusion Principle
+
+    No two electrons will be exactly same (aka have the same n, ℓ, m, and s)
+    This is because even if 2 electrons are in the same configuration the spin
+    will always be different (one +1/2 and one -1/2)
+
+
+The shells are filled up at each level at the lowest level (S configuration) until they reach
+the max configurations for the given shell then move onto the next shell
+
+EX:
+    For example an atom with 3 electrons will completely fill up the first shell
+    S orbital so it will move onto the 2nd shell S orbital.
+
+    An atom with 5 electrons will fill up the 1st shell and the 2nd S orbital 
+    so it move to the P orbital in the 2nd shell
 
 
 S - Sphere shape 
-    1 POSSIBLE Configuriations
+    1 POSSIBLE Configuriation
+    Lowest relative energy (compared within energy level/shell)
 
 P - Dumbell/infinity shape
-    3 POSSIBLE Configuriations ROTATED ALONG XYZ AXIS
+    3 POSSIBLE Configuriations (one per XYZ axis)
 
 D - Complex shape
     5 Configuriations
 
 F - Complex shape
     7 Configuriations
+    Highest relative energy (compared within energy level/shell)
 
-As a result the all of the P shapes can hold 6 electrons per shell
+
+NOTE:
+As a result of the 3 P configurations in total it can hold 6 electrons per shell
 since there are 2 electrons per configuration with 3 configurations
+
 THIS ALSO APPLIES TO ALL THE OTHER SHAPES
 
 
 EX:
-Hydrogen will be 1s^1
-1 = first Shell
-s = sphere shape
-^1 = 1 Electron
+    Hydrogen will be 1s^1
+    1 = first Shell
+    s = sphere shape
+    ^1 = 1 Electron
 
-Helium will be 1s^2
-1 = First Shell
-s = Sphere shape
-^2 = 2 electrons
+    Helium will be 1s^2
+    1 = First Shell
+    s = Sphere shape
+    ^2 = 2 electrons
 
 Beryillyum(3 electrons) will be 1s^2 2s^1
 First shell S orbital mpletely full
 Second shell S orbital then filled with 1 electron
 
-If there were more it will finish filling the S electron orbital then begin
-filling up the next P orbital.
+If there were more it will finish filling the S electron orbital, since its the lowest
+energy level then begin filling up the next P orbital.
 
 
 
+
+PERIODIC TABLE TRENDS
 
 Atomic Radius
     Greatest at the LEFT and BOTTOM of the table
@@ -166,8 +206,8 @@ Ionic Radius
 
 
 First Ionization Energy
-
     Essentially Energy to remove the last electron from the atom
+
     Greatest at RIGHT and TOP of the tablbe
 
     Top: Fewest amount of electron shells so closer to protons
@@ -180,20 +220,54 @@ Photoelectron Spectrometry:
     Y-axis: Relative Number of electrons
     
     Read left to right, each peak represents an electron configuration
-    Height of the peak = # of electrons 
-    Ex: More electrons = Higher peak
+    Height of the peak = # of electrons
+    EX:
+        A peak with a height of 2 will be an S shape
+        A peak with a height of 6 will be an P shape (since 6 total electrons)
+
+    
+    More electrons = Higher peak
 
     Generally: The more protons, the greater binding energy (so more left)
-
 
 
 UNIT 2
 
 Lewis dot electron diagrams
 
-Draw pairs of the valence electrons around each atom
-Replace the shared electrons/bonds with a line
+    Draw pairs of the valence electrons around each atom
+    Replace the shared electrons/bonds with a line (each contains 2 electrons)
 
+
+Helpful Videos
+    Organic Chemistry Tutor-Hybridization of Atomic Orbitals - Sigma & Pi Bonds - Sp Sp2 Sp3: https://youtu.be/pdJeQUd2g_4
+
+
+Hund's Rule (Might be unit 1 idk)
+    I recommend watching the video linked above for better pictures
+
+    For each subshell (s, p, d, f), the electrons will be filled singly with paralell spins up
+    
+    In the case of an 2p subshell, there will be 6 total spots (2 per configuration)
+
+    __ __ __
+    First, it will begin by filling one in each configuration parallell facing up
+
+    ↑_ ↑_ ↑_
+    Like this going left to right
+
+    Then they will pair up with new electrons facing down
+
+    ↑↓ ↑↓ ↑↓
+    Like this, also going left to right
+
+    If there were only five electrons it would look like this:
+    ↑↓ ↑↓ ↑_
+
+    Why?
+
+    The electrons start filling separate subshell configurations before paring up since this keeps them the
+    furthest apart (negatives repulse) and the lowest energy
 
 Types of Bonds:
     Sigma Bonds
@@ -204,21 +278,27 @@ Types of Bonds:
 
     Pi bonds-ONE of the bonds in a double is a PI, TWO in a Triple Bond
 
-    Single Bond: Sigma Bond
+    Essentially:
+
+    Single Bond: 1 Sigma Bond
     Double Bond: 1 Sigma, 1 Pi
     Triple Bond: 1 Sigma, 2 Pi
 
-Hybridization:
-    Number of Electron domains = Electrons pairs and bonds
+
+Hybridization (bonding):
+    Number of Electron domains = Electrons pairs and bonds on valence shell
+
+    Bonding will start with the lowest energy level (s) and move up
 
     4 Electron domains = sp^3
-        Valence Shell: First the s configuration is bonded, then the p configurations
+        Valence Shell: First the s configuration is bonded, then the 3 p configurations
 
     3 Electron Domains = sp^2
         Valence Shell: First the s configuration is bonded, then the two other p configurations
 
     2 Electron Domains = sp^1
         Valence Shell: First s configuration is bonded, then the P configuration
+
 
 Molecular Geometry & Bond angles
     
@@ -242,9 +322,13 @@ Polarity
 Intermolecular Forces
 
     Polar: Dipole-dipole Forces
+        Two polar molecules interact due to their partial positive and negative charges
+        With the positve and negative ends of each interacting with eachother (like a magnet)
+
         Kinda also includes Hydrogen Bonding
 
     Everything: London Dispersion Forces
+        Weakest type
 
 
 Melting Points
@@ -342,7 +426,7 @@ UNIT 5
 
 KINETICS and RATE Laws
 PROFESSOR DAVE EXPLAINS VIDEO ON KINETICS IS VERY HELPFUL FOR THIS SO WATCH THAT
-https://www.youtube.com/watch?v=wYqQCojggyM
+    https://www.youtube.com/watch?v=wYqQCojggyM
 
 
 To find the order of reaction of a molecule you need to find a trial were only that
