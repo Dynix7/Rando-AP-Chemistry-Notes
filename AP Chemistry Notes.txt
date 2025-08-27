@@ -2,18 +2,23 @@ i'll finish linking videos later
 
 These are mainly based off of:
 1. Jeremey Krug-AP Chemistry Cram Session 2025: https://www.youtube.com/watch?v=iKSqmB6mUh8
+    Very general overview
 2. Cararra-AP Chemistry Playlsit: https://www.youtube.com/watch?v=N5b7RcYNc2w&list=PLtLxhThTxJMWVs29UMoY0FwQ8eX8M3E8L
+    More detail and explainations
+Also this mega long AP chemistry overview: https://support.ebsco.com/LEX/AP-Chemistry_Study-Guide.pdf
+(mostly for more even in-detail stuff)
 
 additional videos that I found helpful will also linked for each section
+U can also search a certain topic and organic chem tutor or professor dave explains probably has a video on it
 
 AP Chemistry Notes
 
-Unit 0 Kinda
+Unit 0.5 Kinda
 
 
-Moles (What are they?)
+Moles in chemistry(What are they?)
 
-    Moles can often be hard to understand like it took like an hour for me to grasp
+    Moles can often be hard to understand like it took like 30 minutes for me to grasp
     it fully cuz im dense.
 
     So I recommend watching the following videos:
@@ -61,6 +66,10 @@ Moles (What are they?)
         7.0 grams Lithium * (1 mole/7 grams) = 1 mole
         This is basically dividing by 7
 
+
+    Converting grams to moles is espically useful as in chemical equations it is done using quantities, NOT mass
+    something like Carbon + Fluoride = Carbon Fluoride (btw this isn't accurate equation). It is one atom of Carbon
+    and one atom of Fluoride. If we were given like 10 grams or something, it doesn't tell us anything about how many atoms we have.
 
 
 Unit 1:
@@ -110,7 +119,8 @@ m
 
     EX: D orbital's ℓ number is 2 so possible orbitals are
     -2 -1 0 1 2   TOTAL: 5 Configurations
-
+    
+    As a result the D subshell can hold a total of 10 electrons (2 per configuration)
 
 s (This is per each electron)
     Describes the spin of each electron
@@ -131,7 +141,7 @@ Pauli Exclusion Principle
 
 
 The shells are filled up at each level at the lowest level (S configuration) until they reach
-the max configurations for the given shell then move onto the next shell
+the max for the given shell then move onto the next shell (Aufbau principle)
 
 EX:
     For example an atom with 3 electrons will completely fill up the first shell
@@ -222,7 +232,7 @@ Photoelectron Spectrometry:
     Read left to right, each peak represents an electron configuration
     Height of the peak = # of electrons
     EX:
-        A peak with a height of 2 will be an S shape
+        A peak with a height of 2 will be an S shape (cuz 2 electrons in S shape)
         A peak with a height of 6 will be an P shape (since 6 total electrons)
 
     
@@ -233,14 +243,6 @@ Photoelectron Spectrometry:
 
 UNIT 2
 
-Lewis dot electron diagrams
-
-    Draw pairs of the valence electrons around each atom
-    Replace the shared electrons/bonds with a line (each contains 2 electrons)
-
-
-Helpful Videos
-    Organic Chemistry Tutor-Hybridization of Atomic Orbitals - Sigma & Pi Bonds - Sp Sp2 Sp3: https://youtu.be/pdJeQUd2g_4
 
 
 Hund's Rule (Might be unit 1 idk)
@@ -251,7 +253,7 @@ Hund's Rule (Might be unit 1 idk)
     In the case of an 2p subshell, there will be 6 total spots (2 per configuration)
 
     __ __ __
-    First, it will begin by filling one in each configuration parallell facing up
+    First, it will begin by filling one in each configuration facing up
 
     ↑_ ↑_ ↑_
     Like this going left to right
@@ -264,56 +266,215 @@ Hund's Rule (Might be unit 1 idk)
     If there were only five electrons it would look like this:
     ↑↓ ↑↓ ↑_
 
-    Why?
+    Unpaired electrons make the atom: PARAMAGNETIC
+        This means that CAN interact with magnetic fields
+
+    Fully paired electrons make the atom: DIAMAGNETIC
+        This means that it CAN'T interact with magnetic fields
+
 
     The electrons start filling separate subshell configurations before paring up since this keeps them the
     furthest apart (negatives repulse) and the lowest energy
 
-Types of Bonds:
-    Sigma Bonds
+    
+
+Ionic Bonds
+
+    Ionic bonds are bonds where an electron is TAKEN from an atom
+    This results in a positive and negative ion, and these will be attracted to eachother forming a bond
+    (Like a magnet)
+    EX:
+        NaCl is Na+1Cl-1
+        Where Chlorine takes one electron from Sodium, making Sodium positive ion and Chlorine a negative ion
+
+
+    Lattice Energy
+
+    Essentially the energy/how strong the ionic bond is
+    Factors that affect lattice energy are:
+
+    Charge
+        Increased Magnitude of charge = INCREASED lattice energy
+        Think about it like a stronger magnet = harder to take apart
+        EX:
+            Na+1Cl-1 vs Mg+2O-2
+            MgO would have a higher lattice energy since the the NaCl
+
+
+    Distance
+        Increased distance = LOWER lattice energy
+        Magnets further apart means a lesser pull together
+
+        Larger atomic radii of atoms = further apart
+        So larger atoms bonded together will have a lower lattice energy compared to smaller
+        atoms since they're further apart(assuming equal magnitude of charge)
+        EX:
+            Li+1F-1 VS Na+1Cl-1
+            LiF would have a higher lattice energy since they're smaller and closer together,
+            so the pull is stronger
+
+    IMPORTANT: 
+    
+    Use charge FIRST to determine lattice energy THEN use distance
+    Ex:
+        If your comparing two molecules and the first one has a greater magnitude of charge
+        while the 2nd molecule has a lower distance.
+        
+        The first molecule will have a greater lattice energy since it has a greater magnitude of charge
+        despite being further apart
+
+
+Relative Melting Points (Ionic)
+ 
+    Ionic compounds that have a HIGHER lattice energy will have a HIGHER melting point
+    Think about it like its harder to pull apart so its harder to melt
+
+    So molecules with a higher magnitude of charge (or lower distance if charge is equal)
+    will have a higher melting point
+
+
+Covalent Bonds
+    
+    Covalent bonds are bonds that form by the sharing of electrons between atoms
+    they typically result in the atoms atoms having full valence electron shells
+
+
+Metallic Bonds
+
+    In metallic bonds, the electrons of free-flowing (Can move around easily)
+    Called "Sea of electrons"
+    This is due to the electrons being loosely bound to the nucleus
+
+    Results in properties like: Conductivity, Malleability, and strength
+
+
+Electronegativity
+
+    Essentially, how much an atom wants electrons
+    Greatest at the top right (Due to small atomic radius, and proton pull)
+
+    Determines the type of bond that is formed
+
+    Greater than 1.4: Ionic Bonds
+    
+    Less than 1.4: Covalent bonds
+
+        Greater than 0.5 (but less than 1.4): Polar covalent bond
+        Less than 0.5: Non-polar covalent bond
+    
+    
+Polar Covalent Bonds result in a: Dipole
+
+    In a dipole, electrons will spend more time at one side of a molecule,
+    making that side paritally negative (δ-) and one side paritally positive (δ+)
+
+
+
+Helpful Video for stuff below
+    Organic Chemistry Tutor-Hybridization of Atomic Orbitals - Sigma & Pi Bonds - Sp Sp2 Sp3: https://youtu.be/pdJeQUd2g_4
+
+Types of Bonds (for covalent):
+    Sigma Bonds (Most stable)
     Pi Bonds
 
-    Sigma bonds-Every Single Bond and ONE of the bonds in a double bond is
-     a Sigma bond
+    Sigma bonds- First bond is ALWAYS a Sigma bond
 
     Pi bonds-ONE of the bonds in a double is a PI, TWO in a Triple Bond
 
     Essentially:
 
-    Single Bond: 1 Sigma Bond
+    Single Bond: 1 Sigma Bond  
+        THE LONGEST BOND
+
     Double Bond: 1 Sigma, 1 Pi
+        Shorter Bond
+
     Triple Bond: 1 Sigma, 2 Pi
+        Even Shorter bond
 
 
-Hybridization (bonding):
+
+Hybridization:
     Number of Electron domains = Electrons pairs and bonds on valence shell
+    
+    Hybridization is the combining of electron subshells
 
-    Bonding will start with the lowest energy level (s) and move up
+    Bonding will start with the LOWEST energy level (s) in the shell/energy level and move up
 
-    4 Electron domains = sp^3
-        Valence Shell: First the s configuration is bonded, then the 3 p configurations
-
-    3 Electron Domains = sp^2
-        Valence Shell: First the s configuration is bonded, then the two other p configurations
+    1 Electron Domain = s 
+        Valence Shell: s configuration is bonded
 
     2 Electron Domains = sp^1
         Valence Shell: First s configuration is bonded, then the P configuration
 
+    3 Electron Domains = sp^2
+        Valence Shell: First the s configuration is bonded, then the two other p configurations   
 
-Molecular Geometry & Bond angles
+    4 Electron domains = sp^3
+        Valence Shell: First the s configuration is bonded, then the 3 p configurations
+
+
+
+
+Solids
+
+    Molecular Covalent
+
+        Discrete molecules that are formed with covalent bonds
+        Generally low strength aka low melting point, easy to break due to weaker partial charges
+        EX: H2O
     
-    2 Bonds/Bent: 104.5 degrees
 
-    3 Bonds (with 0 lone pairs)/Trigonal Planar: 120 degrees
+    Network Covalent
 
-    Multiple Central Atoms= Multiple Molecular Geometries
-    Ex: Tetrahedral(4 bonds):109.5, Trigonal Planar: 120, Bent: 104.5
+        Molecules (or atoms) that are all bound together continuosly by covalent bonds
+        Generally rigid and inflexible 
+        EX: Diamond (Carbon) or Silicon Dioxide (SiO2)
+
+
+    Ionic Solids
+
+        Forms a lattice of ions
+        Ex:
+            Cl- Na+ Cl-
+            Na+ Cl- Na+
+            Cl- Na+ Cl-
+
+        Usually strong due to the full charges
+        Dissolves in water due to its charge and conducts electricity (in water)
+        Brittle
+    
+
+    Metallic Solids
+
+        Defined by "sea of electrons"
+        
+        Conducts electricity well since electrons can move freely along
+        Maleable(Doesn't snap basically)
+        Not solubility 
+    
+
+Alloy
+
+    Mixture of metal and metal or non-metal that has new properties
+
+    Substitutional Alloy
+
+        Alloy where the other material in slots in/replaces an spot where an metal atom would usually be
+        Occurs when the new material's atoms is of an similar size to the original metal
+
+    Intersitial Alloy
+
+        Alloy where the other material is in the slots INBETWEEN the metal atons
+        Occurs when the new material's atoms is much smaller
+
+        Often stronger, harder, and and less ductile (ability to be stretched)
 
 
 Polarity
 
     NOT ABOUT THE SYMMETRY OF THE MOLECULE
-    ABOUT IF THERE's AN UNBALANCED REGION OF ELECTRONS
+    ABOUT IF THERE's AN UNBALANCED REGION OF ELECTRONS like lone pairs of electrons
 
     Bent Structure = Polar
     Unbalanced region of electrons = Polar
@@ -331,19 +492,204 @@ Intermolecular Forces
         Weakest type
 
 
-Melting Points
-    THINK ABOUT IN TERMS OF charge
 
-    Greater Magnitude of charge = Higher Melting Points
-        ex: Na+Cl- and Na2+2S-2
-        Na2S would have a higher melting Points
+Lewis dot electron diagrams
+
+    Helpful Videos:
+        Professor Dave Explains-Lewis Dot Structures:https://www.youtube.com/watch?v=Sk7W2VgbhOg
+        Organic CHemistry Tutor-How to Draw Lewis Dot Structures:https://www.youtube.com/watch?v=NFZtjSeT3XE
+
+    Drawing the Strucutre
+        1. Draw the chemical symbol(Ex:H, C, N, Pb, etc) for the atom
+
+        2. Draw the atom that can form the most bonds in the CENTER 
+
+        3. Determine the # of valence electrons (electrons in outermost shell)
+            # for common elements are:
+            Oxygen: 6 valence electrons
+            Carbon: 4 valence electrons
+            Hydrogen: 1 valence electron
+            Nitrogen: 5 valence electrons
+
+        4. Draw dots representing valence electrons one at a time going around (drawn up, down, left, right)
+        (Ex for oxygen: Draw a dot on top, right, bottom, left. THEN pair electrons up, drawing one on top and to the right)
+        Also, it doesn't matter which one you pair up (it can be the top, bottom, left, or right)
+
+        Ex: Oxygen is   .             ..
+                     .. O ..  NOT   .. O ..
+                        .
+
+
+    Drawing Bonds
+        
+        OK SO THIS ACTUALLY ISN'T FULLY RECOMMENDED CUZ IT DOESN'T ALWAYS WORK FOR RESONANCE STRUCTURES WHILE THE OTHER WAY DOES WORK FOR EVERYTHING
+        SO JUST SCROLL DOWN TO THE RESONANCE DRAWING BONDS Guide
+
+        //1. Determine the # of bonds (Basically # of lone pairs)
+        //    Each atom would typically want 8 electrons for an full shell, except hydrogen which wants 2 electrons
+        //2. Pair up the lone electrons BETWEEN atoms, each of pairs these will be a bond
+
+        //Ex:
+            //Two oxygens will bond together since each one has a lone electron, this will form a total of 2 bonds
+            //and each atom will have 2 lone pairs
+
+        However, sometimes there will be more complex bonds so read below 
+
+Resounance and Formal Charge
     
-    Smaller Molecules = Higher Melting Points
+    EXTREMELY HELPFUL ARTICLE: https://chem.libretexts.org/Courses/University_of_Connecticut/Organic_Chemistry_-_Textbook_for_Chem_2443/01:_General_Chemistry_Topics_Review/1.03:_Resonance_Forms
+
+    Helpful Videos:
+        Organic Chemistry Tutor-How To Calculate The Formal Charge of an Atom:https://www.youtube.com/watch?v=R_SIjijCouE
+        Organic Chemistry Tutor-Resonance Structures, Basic Introduction - How To Draw The Resonance Hybrid:https://www.youtube.com/watch?v=9B5FGPDwX_E
+    
+    Resounance Structures
+
+        These are molecules that can't be represented using one lewis dot diagram due to having 2 (or more) configurations. 
+
+        In reality these molecules exist in a blended state in between possible configurations
+        (like instead of a double bond and single bond, it would be like a 1.5)
+
+        To represent them them we have multiple lewis dot strucutres with "<->" between them
+        OR as a signle molecule with the bond that resonates is drawn as a dashed line 
+        Ex:
+            Ozone (O3 is an example of this)
+
+            O = O - O  <->  O - O = O
+
+        DRAWING THE BONDS
+            btw i do still recommend reading the "Extremely Helpful" article above for more detail
+
+            1. Determine the total number of valence electrons avaliable
+
+            2. Connnect all the atoms with a single bond
+
+            3. Determine the number of valence electrons left by subtracting the number used in bonds (btw 2 electrons per bond)
+
+            4. Begin by checking each atom to find ones that don't have a full shell (8 is full for most elements, except hydrogen which is 2)
+
+            5. Next begin filling atoms with electrons to fill the shell (usually 8 is full, also each bond has 2 already) 
+               STARTING WITH THE ATOMS ON THE OUTSIDE 
+
+            6. Place an any extra electrons on the center atom
+
+            7. Determine if the center atom has a full octet, if it doesn't determine the number of bonds it needs
+
+            8. Draw a bond with one of the outer atoms to fufill the octet for the center atom
+               Remove one electron pair from the outer atom that is being bonded, these two make up will make up the bond
+
+            9. Determine if there are any other possible configurations (for step 8), if so draw them out too
+
+            Ex:
+                Ozone (O3)
+                Has 6 valence electrons per atom so a total of 18 valence electrons
+
+                Draw the atoms connected connected with single bonds
+                O - O - O
+
+                These 2 bonds will use up 4 electrons, so we have 14 valence electrons left to distribute
+                We will first fill up the oxygen's on the left and right to 8
+                  ..      ..
+                .. O - O - O ..
+                  ..      ..
+
+                Now, we will fill up the center oxygen with any extra electrons, in this case 2
+                  ..  ..  ..
+                .. O - O - O ..
+                  ..      ..                
+
+                We can see that the center oxygen still needs 2 more electrons, aka it need one more bond. 
+                So we will take an electron pair from one of the oxygens (either left or right) to form this bond
+
+                  ..  ..  ..   
+                .. O = O - O ..  
+                          ..    
+
+                      OR
+
+                  ..  ..  ..
+                .. O - O = O ..
+                  ..         
 
 
-Ionic Compounds form a 3 Dimensional Lattice
+    Formal Charge
 
-In water, the H(parital +) and O(partial -) will pull apart the ions
+    Charge assuming bonds are shared equally (disregarding electronegativity)
+    When assessing an strucutre, you want to aim for each atom to have an formal charge closest to 0
+
+    The structures with the LOWEST formal charges (cloest to 0) will contribute the MOST to the structure
+
+    Formula for formal charge:
+        Formal Charge = Valence Electrons (Before any bonding) - Bonds - dots (lone elctrons)
+    
+    Ex:
+        H2O                                         
+      .. ..     Calculation for Oxygen: 6 valence electrons - 2 bonds - 4 dots = 0
+        O       Calculation for first Hydrogen: 1 - 1 - 0 = 0
+       / \      Calculation for Hydrogen: 1 - 1 - 0 = 0
+      H   H 
+
+    So this would be neutral in terms of formal charge. In reality it isn't because formal charge
+    doesn't take the electronegativity of oxygen into account
+
+
+VSEPER THEORY (Molecular Geometry)
+    
+    VSEPR = Valence Shell Electron Pair Repulsion
+
+    This essentially states that in a molecule the bonded atoms (technically electrons) repel eachother, and the
+    lone pairs of electrons are even more repulsive than those. 
+
+    In models,
+    The fully black cone shaped bond means the atom pointed TOWARDS you
+    The dashed cone bond means that the atom is pointed AWAY from you
+
+
+    So now it basically just memorizing all of the combinations and the shapes created so im just gonna copy and paste it here
+
+    Heres a Chart (Scroll Down): https://chemistrytalk.org/vsepr-theory/
+    There's also a chart and more info on the Wikipedia: https://en.wikipedia.org/wiki/VSEPR_theory
+
+    Steric Number: Sigma Bonds + Lone pairs (basically Double bond or triple bond counts once)
+
+
+    Steric Number of 2
+
+        Linear (180°)
+    
+
+    Steric Number of 3
+
+        3 Bonds: Trigonal Planar (120°)
+
+        2 Bonds, 1 Lone Pair: Bent (104.5°) (btw 109 acceptable on AP test I THINK)
+
+
+    Steric Number of 4
+
+        4 Bonds: Tetrahedral (109.5°)
+
+        3 Bonds, 1 Lone Pair: Trigonal Pyramidal (107.3°)
+
+        2 Bonds, 2 Lone Pairs: Bent or Angular (104.5° to 109°)
+
+
+    Steric Number of 5
+
+        5 Bonds: Trigonal Bipyramidal (90° and 120°)
+
+        4 Bonds, 1 Lone Pair: Seesaw (bro idk man this shape if goofy)
+
+        3 Bonds, 2 Lone Pairs: T-Shaped (90°, 180°)
+
+        2 Bonds, 3 Lone Pairs: Linear (180°)
+
+    
+    ok so thats all im gonna put since u probably don't need to know past like the 4 bonds
+
+
+rando side note if u didn't know:
+    In water, the H(parital +) and O(partial -) will pull apart ions
 
 
 
@@ -503,7 +849,7 @@ Identifying Order using Graphs
     k[A]^0 
 
     Graph:
-    X-axis: time
+    X-axis: Time
     Y-axis: [A]
     Linear decrease (y=-x)
 
