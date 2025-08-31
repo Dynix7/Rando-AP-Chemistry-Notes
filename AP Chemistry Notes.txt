@@ -3,8 +3,13 @@ i'll finish linking videos later
 These are mainly based off of:
 1. Jeremey Krug-AP Chemistry Cram Session 2025: https://www.youtube.com/watch?v=iKSqmB6mUh8
     Very general overview
+
 2. Cararra-AP Chemistry Playlsit: https://www.youtube.com/watch?v=N5b7RcYNc2w&list=PLtLxhThTxJMWVs29UMoY0FwQ8eX8M3E8L
     More detail and explainations
+
+3. Khan Academy- AP Chenistry Course: https://www.khanacademy.org/science/ap-chemistry-beta
+    even more detail, also i think some topics are in the wrong unit or not really covered so idk man
+    
 Also this mega long AP chemistry overview: https://support.ebsco.com/LEX/AP-Chemistry_Study-Guide.pdf
 (mostly for more even in-detail stuff)
 
@@ -81,14 +86,23 @@ Mass Percent-What percent of a molecule is each element
     Individual Total Atomic Mass (per atom)/ Total Mass
 
     EX: MgCl2
-    24.31 + 70.90(35.45x2) = 95.21 amu
+    24.31 + 70.90 (get by doing 35.45x2) = 95.21 amu
     Mg = 24.31/95.21 = 25.53 %
     Cl = 70.90/95.21 = 74.47 %
 
+Isotopes
+    Are versions of elements that have the SAME # of protons and DIFFERENT # of neutrons
+
+
+
 Mass Spectrometry-Graph of the masses of the isotopes (if they exist)
     EX: Two bars = 2 isotopes
+
+    X-axis = Atomic Mass (Sometimes mass/charge)
+    Y-Axis = Reltaive abundence
+
     Find the average atomic mass based on their Relative abundence
-    Atomic Mass * Relative abundence: THEN add them up
+    Atomic Mass * Relative abundence of each istope(peak) THEN add them up
 
 
 Electron Configuriations
@@ -97,6 +111,7 @@ Videos that are helpful:
 HIGHLY RECCOMENDED Professor Dave Explains-Quantum Numbers, Atomic Orbitals, and Electron Configurations: https://www.youtube.com/watch?v=Aoi4j8es4gQ
 Organic Chemistry Tutor-Electron Configuration - Basic introduction: https://www.youtube.com/watch?v=NIwcDnFjj98
 
+CHART FOR FILLING CONFIGURATIONS: https://www.chemistrylearner.com/wp-content/uploads/2021/10/Aufbau-Principle.jpg
 
 EVERY configuration HAS 2 ELECRTONS
 
@@ -140,17 +155,6 @@ Pauli Exclusion Principle
     will always be different (one +1/2 and one -1/2)
 
 
-The shells are filled up at each level at the lowest level (S configuration) until they reach
-the max for the given shell then move onto the next shell (Aufbau principle)
-
-EX:
-    For example an atom with 3 electrons will completely fill up the first shell
-    S orbital so it will move onto the 2nd shell S orbital.
-
-    An atom with 5 electrons will fill up the 1st shell and the 2nd S orbital 
-    so it move to the P orbital in the 2nd shell
-
-
 S - Sphere shape 
     1 POSSIBLE Configuriation
     Lowest relative energy (compared within energy level/shell)
@@ -167,41 +171,115 @@ F - Complex shape
 
 
 NOTE:
-As a result of the 3 P configurations in total it can hold 6 electrons per shell
+As a result of the 3 P configurations in total it can hold 6 electrons for the subshell
 since there are 2 electrons per configuration with 3 configurations
 
 THIS ALSO APPLIES TO ALL THE OTHER SHAPES
 
 
+Notation
+
+    You write the shell frist (1, 2, 3, etc), then the subshell shape (s, p ,d, f), then you raise it
+    to the number of electrons in the subshell
+
+
+    EX:
+        Hydrogen will be 1s^1
+        1 = first Shell
+        s = sphere shape
+        ^1 = 1 Electron
+
+        Helium will be 1s^2
+        1 = First Shell
+        s = Sphere shape
+        ^2 = 2 electrons
+
+    Beryillyum(4 electrons) will be 1s^2 2s^2
+    First subshell (s) completely full
+    Second shell S orbital then filled with 1 electron
+
+
+    This can also be represented with brackets and noble gases[], which means that it inherits the electron configuration
+    of the noble gas.
+    EX:
+        Beryillyum can also be: [He] 2s^2 = 1s^2 2s^2
+
+
+
+Aufbau Principle
+    The shells are filled up at each level at the lowest subshell (S configuration) until they reach
+    the max for the given subshell then move onto the next shell
+    aka they fill the lowest energy subshells first
+
+
+    Exceptions* (kinda) 
+
+    Khan Academy Video on this: https://www.youtube.com/watch?v=ddNsfv8iaps
+
+    However this isn't always true as it's filled a little differently.
+    For example, in calcium it's
+    1s^2 2s^2 2p^6 3s^2 3p^6 4s^2
+
+    You would expect the next subshell after 3p^6 to be 3d^2, but its actually 4s^2. Since 4s^2 is actually the lowest energy in this case.
+    See this chart for how the electrons are actually filled: https://www.chemistrylearner.com/wp-content/uploads/2021/10/Aufbau-Principle.jpg
+
+    You can also see an periodic table chart for how electrons on filled: 
+    https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/887/2015/05/23213431/CNX_Chem_06_04_Econtable.jpg
+
+    On it you can see that the first two groups (columns) fill up the s subshell, these are called the s block.
+
+    You can also see that the transition metals generally fill up the d subshell
+
+    And the elements after the transition metals fill up the p oritals.
+
+
+    Another exception
+    
+    The d subshell is espically stable at 5 electrons and 10 electrons. So it'll take one electron from the s subshell to achieve this.
+    EX:
+        Chromium you would expect to be:
+        [Ar] 4s^2 3d^4
+        However, the d subshell wants to get to 5, so it will take an electron to get:
+        [Ar] 4s^2 3d^5
+
+
 EX:
-    Hydrogen will be 1s^1
-    1 = first Shell
-    s = sphere shape
-    ^1 = 1 Electron
+    For example an atom with 3 electrons will completely fill up the first shell
+    S orbital so it will move onto the 2nd shell S orbital.
 
-    Helium will be 1s^2
-    1 = First Shell
-    s = Sphere shape
-    ^2 = 2 electrons
-
-Beryillyum(3 electrons) will be 1s^2 2s^1
-First shell S orbital mpletely full
-Second shell S orbital then filled with 1 electron
-
-If there were more it will finish filling the S electron orbital, since its the lowest
-energy level then begin filling up the next P orbital.
-
+    An atom with 5 electrons will fill up the 1st shell and the 2nd S orbital 
+    so it move to the P orbital in the 2nd shell
 
 
 
 PERIODIC TABLE TRENDS
+
+More electrons = more electron shielding "protecting" the outer electrons
+making them less attracted to the nucleus
+
+
+Effective Nuclear Charge
+    How much pull does an electron feel from the nucleus
+
+    Formula: Effective Nuclear Charge = Z (# of protons) - S (Shielding electrons)
+
+    Note: The shielding electrons are all the electrons that aren't in the same shell/energy level as
+    the valence electron your calculating for
+    Ex:
+        Mg (12 protons) is 1s^2 2s^2 2p^6 3s^2
+        To find the effective nuclear charge for the an valence electron you do:
+        12 - 10 = 2+ 
+        
+        This is because you don't count any electrons in the 3 shell/energy level
+
+
 
 Atomic Radius
     Greatest at the LEFT and BOTTOM of the table
     
     Bottom: Greatest # of electron shells
     Left: Least number of Protons 
-    So weak attraction
+    So weakest attraction
 
 
 Ionic Radius
@@ -221,8 +299,25 @@ First Ionization Energy
     Greatest at RIGHT and TOP of the tablbe
 
     Top: Fewest amount of electron shells so closer to protons
-    Right: Have greater "effective nuclear charge;" more protons to attract electrons
 
+    Right: Have greater "effective nuclear charge (basically how strong the pull of the nucleus is)" more protons to attract electrons
+    (btw the more electrons doesn't really matter since they're in the same shell)
+
+
+2nd, 3rd, etc. Ionization energy
+    
+    Above we talked about the ionization energy for one electron, so what happens if you remove more?
+
+    Generally, as you remove more electrons the ionization energy will increase.
+    Within a shell, they're still similar. However, when you move to the next shell there
+    will be a spike in energy needed since ytou are moving one shell closer to the nucleus.
+    Ex:
+        First ionization energy: 700 kj/mol
+        Second ionization energy: 1020 kj/mol
+        Third ionization energy: 6500 kj/mol
+
+        Here we can predict that there are 2 electrons in the valence shell, then the energy jumped
+        since we were moving to the next shell
 
 Photoelectron Spectrometry:
 
@@ -230,7 +325,10 @@ Photoelectron Spectrometry:
     Y-axis: Relative Number of electrons
     
     Read left to right, each peak represents an electron configuration
+    Left = Closest to nucleus (Usually s subshell)
+    Right = Furthest to nucleus
     Height of the peak = # of electrons
+
     EX:
         A peak with a height of 2 will be an S shape (cuz 2 electrons in S shape)
         A peak with a height of 6 will be an P shape (since 6 total electrons)
@@ -241,7 +339,43 @@ Photoelectron Spectrometry:
     Generally: The more protons, the greater binding energy (so more left)
 
 
+Coulomb's law
+
+    This law describes the force between two charged particles
+    This applies to electrons and protons, ions in a ionic bond, lattice energy,
+    electron-electron repulsion, and more.
+
+    F = Electrostatic Force
+    k = Coulombs Constant
+    q1, q2 = Charges of particles
+    r = distance
+
+    F = k * ((q1 * q2)/r^2)
+
+
+
 UNIT 2
+
+
+Potential Energy in Covalent Bonds
+
+    Article + Graph: 
+    https://chem.libretexts.org/Bookshelves/Introductory_Chemistry/Introductory_Chemistry_(CK-12)/09:_Covalent_Bonding/9.04:_Energy_and_Covalent_Bond_Formation
+
+    In a molecule held together by covalent bonds, there are attractive forces and repulsive forces
+    Normally, when they are bonded the aotms are in the most stable distance/state
+
+    If you attempt to push the atoms together, they will want to repulse eachother (very high potential energy)
+    While if you push them together, they will want to come back together (higher potential energy)
+
+    Think of it like a spring where if you push it in, it'll try to move out. While if you pull it out, it'll try to move in
+
+
+    If you graph this, the lowest peak will be the bond energy.
+    More bonds = lower peak
+
+    Additionally, a bigger atomic radius will move the entire graph to the right since they're
+    naturally further apart
 
 
 
@@ -288,7 +422,7 @@ Ionic Bonds
         Where Chlorine takes one electron from Sodium, making Sodium positive ion and Chlorine a negative ion
 
 
-    Lattice Energy
+    Lattice Energy (calculated by coulombs law)
 
     Essentially the energy/how strong the ionic bond is
     Factors that affect lattice energy are:
@@ -351,7 +485,9 @@ Metallic Bonds
 Electronegativity
 
     Essentially, how much an atom wants electrons
+
     Greatest at the top right (Due to small atomic radius, and proton pull)
+    Also excludes noble gases (rightmost column) since they already have fill shells
 
     Determines the type of bond that is formed
 
@@ -362,7 +498,13 @@ Electronegativity
         Greater than 0.5 (but less than 1.4): Polar covalent bond
         Less than 0.5: Non-polar covalent bond
     
-    
+Predicting Bonding (Generally)
+    NOT ALWAYS TRUE BTW
+    Metal + Metal = Metallic Bond
+    Non-metal + non-metal = Covalent Bond
+    Metal + non-metal = Ionic Bond
+
+
 Polar Covalent Bonds result in a: Dipole
 
     In a dipole, electrons will spend more time at one side of a molecule,
@@ -395,28 +537,37 @@ Types of Bonds (for covalent):
 
 
 Hybridization:
-    Number of Electron domains = Electrons pairs and bonds on valence shell
+    Steric Number = # of Electrons pairs + Sigma bonds
     
     Hybridization is the combining of electron subshells
 
     Bonding will start with the LOWEST energy level (s) in the shell/energy level and move up
 
-    1 Electron Domain = s 
-        Valence Shell: s configuration is bonded
-
-    2 Electron Domains = sp^1
+    Steric # of 2 = sp^1
         Valence Shell: First s configuration is bonded, then the P configuration
 
-    3 Electron Domains = sp^2
+        50% s character
+        50% p character
+
+    Steric # of 3 = sp^2
         Valence Shell: First the s configuration is bonded, then the two other p configurations   
 
-    4 Electron domains = sp^3
+        33% s character
+        66% p character
+
+    Steric # of 4 = sp^3
         Valence Shell: First the s configuration is bonded, then the 3 p configurations
 
+        25% s character
+        75% p character        
+
+    Steric # of 5 = sp^3d
 
 
 
 Solids
+
+    oh yeah I forgot, molecules can be connected through weak london dispersion forces
 
     Molecular Covalent
 
@@ -442,17 +593,20 @@ Solids
 
         Usually strong due to the full charges
         Dissolves in water due to its charge and conducts electricity (in water)
-        Brittle
+
+        Brittle due to the lattice strucutre
+        If you shift any part of the lattice, it will result in the positives next to positives (and - next to -)
+        this will result in repulsion and thus breaking
     
 
     Metallic Solids
 
-        Defined by "sea of electrons"
+        Defined by free flowing "sea of electrons"
         
         Conducts electricity well since electrons can move freely along
         Maleable(Doesn't snap basically)
         Not solubility 
-    
+        Also shiny due to free electrons
 
 Alloy
 
@@ -473,24 +627,16 @@ Alloy
 
 Polarity
 
-    NOT ABOUT THE SYMMETRY OF THE MOLECULE
-    ABOUT IF THERE's AN UNBALANCED REGION OF ELECTRONS like lone pairs of electrons
+    Not only about the symmetry of a molecule
+    ABOUT IF THERE's AN UNBALANCED REGION OF ELECTRONS like ubalanced lone pairs of electrons
 
-    Bent Structure = Polar
     Unbalanced region of electrons = Polar
 
+    You can also think about it as electronegative atoms pulling electrons towards them (like a tug of war)
+    resulting in negativity near them. Then there are lone pairs of electrons which are also negative since they're electrons.
 
-Intermolecular Forces
-
-    Polar: Dipole-dipole Forces
-        Two polar molecules interact due to their partial positive and negative charges
-        With the positve and negative ends of each interacting with eachother (like a magnet)
-
-        Kinda also includes Hydrogen Bonding
-
-    Everything: London Dispersion Forces
-        Weakest type
-
+    O=C=O For the case of CO2, the electronegative oxygens are pulling electrons, but the forces
+    cancel out since they're pulling in oppsite directions
 
 
 Lewis dot electron diagrams
@@ -616,6 +762,8 @@ Resounance and Formal Charge
 
     Charge assuming bonds are shared equally (disregarding electronegativity)
     When assessing an strucutre, you want to aim for each atom to have an formal charge closest to 0
+    If there are two possible structures that an equal formal charge, then place the formal charge on the 
+    most electronegative atom
 
     The structures with the LOWEST formal charges (cloest to 0) will contribute the MOST to the structure
 
@@ -695,12 +843,85 @@ rando side note if u didn't know:
 
 UNIT 3
 
+Intermolecular Forces (Forces betweem molecules)
+
+    Everything: 
+        London Dispersion Forces
+            
+            WEAKEST type of intermolecular force
+
+            Result of random movements in electrons that cause temporary dipoles to form
+            Scales with the size of the electron cloud/atomic radius since more electrons
+            means more possible electron movement. (Bigger Atomic Radius = Stronger London Dispersion Force)
+    
+            Ex:
+                Electron moves to the left of an atom, causing the left to be negative
+                and the right side to be positive (dipole)
+        
+
+    Polar: 
+        Dipole-dipole Forces
+
+            Two polar molecules interact due to their partial positive and negative charges
+            With the positve and negative ends of each interacting with eachother (like a magnet)
+
+        Hydrogen Bonds
+
+            Type of dipole-dipole force
+            STRONGEST intermolecular force
+
+            Occurs in polar molecules where an Hydrogen is bonded to either Nitrogen, Oxygen, or Fluorine (N, O, F)
+            Since these are the most electronegative elements
+
+    Misc.
+        Ion-Dipole Forces
+
+            This is where the a dipole molecule will interact with an ion due to their opposing charges.
+            Ex:
+                Polar H2O breaking apart Na+Cl- ions
+                since the partially negative oxygen is be atracted to the positive sodium, while the partially positive
+                hydrogen will be attracted to the negative chlorine.
+
+
+Boiling Points 
+
+    Greater intermolecular forces = Higher boiling point
+    
+    This is because when you boil something, you can think of it as pulling the molecules
+    apart from eachother. So greater intermolecular forces would mean that it would be harder to pull apart.
+
+    Determining (Relative) Boiling Points
+
+        First, I would determine if any of the molecules have hydrogen bonds. If they do
+        they will most likely have the highest boiling point.
+        Next, I would determine if there are any polar molecules (dipole-dipole forces), they would be next. 
+        Then if there were any left, you would determine them based on London Dispersion Forces
+        (Greater atomic radius = Greater intermolecular forces).
+
+
+Vapor Presssure
+    
+    So for a molecule (liquid obv), some of the highest energy molecules will evaporate.
+    (Like water evaporates even if it isn't at its boiling point)
+
+    These molecules in the air will result in a vapor pressure
+
+    Lower Intermolecular Forces = Higher Vapor pressure
+
+    Lower intermolecular forces means that more molecules can escape into the air
+    and this will result in a greater vapor pressure
+
+
+Phases of Matter (bro idk what khan academy is doing, but like they like didn't really cover this lol)
+
+
+
 Gas Laws
 PV = nRT
-Presssure * Volume = # of Moles * Universal Gas Constant * Temperature
+    Presssure * Volume = # of Moles * Universal Gas Constant * Temperature
 
-Converting Grams and Molar Mass
-Molar Mass is grams/mole (grams per mole)
+    Converting Grams and Molar Mass
+    Molar Mass is grams/mole (grams per mole)
 
 
 Spectrophotometry (Concentration of Molecules and the absorbanence at each concentration)
