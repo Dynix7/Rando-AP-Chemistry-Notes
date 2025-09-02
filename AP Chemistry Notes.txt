@@ -9,7 +9,7 @@ These are mainly based off of:
 
 3. Khan Academy- AP Chenistry Course: https://www.khanacademy.org/science/ap-chemistry-beta
     even more detail, also i think some topics are in the wrong unit or not really covered so idk man
-    
+
 Also this mega long AP chemistry overview: https://support.ebsco.com/LEX/AP-Chemistry_Study-Guide.pdf
 (mostly for more even in-detail stuff)
 
@@ -77,7 +77,7 @@ Moles in chemistry(What are they?)
     and one atom of Fluoride. If we were given like 10 grams or something, it doesn't tell us anything about how many atoms we have.
 
 
-Unit 1:
+Unit 1 (7%-9% of test)
 
 Mass Percent-What percent of a molecule is each element
 
@@ -354,7 +354,7 @@ Coulomb's law
 
 
 
-UNIT 2
+UNIT 2 (7%-9%)
 
 
 Potential Energy in Covalent Bonds
@@ -783,6 +783,8 @@ Resounance and Formal Charge
 
 VSEPER THEORY (Molecular Geometry)
     
+    I suggest the Khan Academy videos for these btw
+
     VSEPR = Valence Shell Electron Pair Repulsion
 
     This essentially states that in a molecule the bonded atoms (technically electrons) repel eachother, and the
@@ -841,7 +843,7 @@ rando side note if u didn't know:
 
 
 
-UNIT 3
+UNIT 3 (18%–22%)
 
 Intermolecular Forces (Forces betweem molecules)
 
@@ -914,24 +916,443 @@ Vapor Presssure
 
 Phases of Matter (bro idk what khan academy is doing, but like they like didn't really cover this lol)
 
+    Plasma (Not really important)
+        Ionized gas
+    
+    Solids
+
+        Tightly packed and held in fixed positions by intermolecular forces
+        Definite shape and volume
+
+        Crystalline solids
+
+            Solids that have a definite organized crystal lattice strucutre
+            Ex:
+                Diamonds or salt (NaCl)
 
 
-Gas Laws
-PV = nRT
-    Presssure * Volume = # of Moles * Universal Gas Constant * Temperature
+        Amorphous Solids
 
-    Converting Grams and Molar Mass
-    Molar Mass is grams/mole (grams per mole)
+            These are solids that lack definite organized structure.
+            They also don't have a definite melting point, just decreasing is viscosity 
+            Ex:
+                Rubber and Glass (not crystal cuz cools fast = unorganized)
+
+    Liquid
+
+        Definite Volume; NO definite shape
+
+    Gas
+
+        NO definite volume nor shape
+
+
+Changing States of Matter
+
+     To change our state (phase idk man) of matter we will either need to change either
+     TEMPERATURE or PRESSURE. 
+
+     Changing states of matter requires affecting the intermolecular bonds, when you increase temperature
+     you are increasing the kinetic energy of the molecules; this allows the molecules to break the intermolecular forces
+     and either melt or vaporize.
+
+     Pressure will also affect the state of matter since you can think of pressure as pushing the molecules together.
+     As a result, they will be more likely sold or liquid, since they're being pushed into eachother so much. On the otherhand,
+     if you decrease the pressure the molecules are more free to move. This results in a lower boiling point (and melting) as they can
+     evaporate easier with the pressure.
+
+     Terms (you probably know these)
+
+        Takes Energy
+            -Melting: Solid -> Liquid 
+            -Evaporation: Liquid -> Gas
+        
+        Releases Energy
+            -Condensation: Gas -> Liquid
+            -Feezing: Liquid -> Solid
+
+        idk if you need these
+            -Sublimation: Solid -> Gas  (Ex: Dry Ice)
+            -Deposition: Gas -> Solid
+        
+
+Specific heat
+
+    Is the amount of energy to increase 1 gram of a material by 1° Kelvin (Could also be celcius but u just convert so same)
+    Given in: Joules / (grams * kelvin)
+
+Change in Temperature
+
+    To find how much energy (usually Joules) to increase the heat of a material. You can use the equation:
+
+    q(Joules/Heat) =  m (mass) * C (Specific Heat) * ΔT (Change in Temperature)
+    q = m * C * ΔT
+    Basically how much joules to increase a certain mass of a material by a given temperature. At the end,
+    the grams and kelvin cancel out, leaving you with joules
+
+
+Phase Change Diagram
+
+    Example Diagram: https://general.chemistrysteps.com/wp-content/uploads/2023/11/Phase-change-diagram-increasing-temperature.png
+    Heres the entire article btw: https://general.chemistrysteps.com/heat-and-phase-change-diagrams/
+
+    Left (Y-axis): Temperature
+    Bottom (X-axis): Energy Added
+
+    As you would expect, when you add energy to something, the temperature will increase.
+    However, when the it's undergoing a phase change the temperature doesn't change (It plataeus)
+    This is because the energy is going into breaking the intermolecules forces and not
+    increasing the temperature
+
+
+Phase Diagram
+
+    Example Chart on Wikipedia: https://en.wikipedia.org/wiki/Phase_diagram#/media/File:Phase_diagram_of_water_simplified.svg
+
+    X-axis (Bottom): Temperature
+    Y-axis (Left): Pressure
+
+    Shows the phase of material at varying temperature and pressures. Has three distinct regions
+    one solid, one liquid, and one gas.
+
+
+Ideal Gas Law
+
+    Khan academy: https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:intermolecular-forces-and-properties/x2eef969c74e0d802:ideal-gas-law/v/ideal-gas-equation-pv-nrt
+
+    Assumptions (cuz its ideal):
+
+        -Molecules don't interact
+        -Molecules don't take up any volume 
+        -Elastic (Energy Retained)
+
+
+    PV = nRT
+        Presssure * Volume = # of Moles * Universal Gas Constant * Temperature
+    btw constant is given
+
+    You can then use this equation to solve for variables using the given information
+    For example, Pressure = (# of Moles * Constant * Temperature) / Volume
+    or you can solve for moles: n = (PV)/(RT)
+
+
+Partial Pressure (Dalton's Law of Partial Pressures)
+
+    Khan Academy: https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:intermolecular-forces-and-properties/x2eef969c74e0d802:ideal-gas-law/v/introduction-to-partial-pressure
+
+    When there are multiple gases in a container, each of them will contribute to the total pressure.
+
+    Total Pressure = Pressure1 + Pressure2 + ...
+    OR
+
+    (Total Moles * R * T) / V = (# of moles for gas1 * R * T) / V  +  (# Moles2 * R * T) / V + ...
+
+    Since they're all in the same environment you can just cancel out the R, T, and V to just get:
+    Total Moles = Moles1 + Moles2 + ...
+
+    As a result, the partial pressure exerted molecule is proportional to the the # of molecules
+
+    Partial Pressure / Total Pressure  =  # of moles for gas / Total # of moles
+
+
+Kinetic Molecular Theory (KMT)
+
+    Assumptions (same as above btw):
+        -Molecules don't interact with eachother
+        -Molecules don't take up any volume/negligible 
+        -Elastic (Energy Retained)
+
+    Explaination for gases using kinetics (its in the name) to explain gases and the ideal gas law.
+    Regarding: Pressure, Volume, Temperature, # of Moles
+
+    It asserts that pressure is caused by gas molecules hitting against the walls of the container.
+
+    "∝" means proportional btw
+    These are pretty intuitive 
+
+    PV = nRT
+
+    BTW YOU CAN JUST LOOK AT PV = nRT for these
+    like you can see if everything else is constant and you increase Volume (V)
+    the temperature (T) will also increase. This can be repeated for the rest of the laws
+
+    Volume and Pressure(Boyle's Law)
+
+        If the volume of a container increases, then the pressure will decrease. This is because
+        the gas particles will hit the walls the container less. So, Pressure is inversely proportional
+        to the volume:
+
+        P ∝ 1/V
+    
+    Temperature and Pressure(Guy-Lussac's Law)
+
+        If the temperature increases, then the pressure will increase. The gas molecules will have more
+        kinetic energy. As a result, they will hit the sides of the container more and with more force.
+
+        P ∝ T 
+    
+    Volume and Temperature (Charle's Law)
+
+        If the Volume increases, then to equalize, the temperature will also increase. 
+        This is because if the volume increases the pressure will decrease, so to keep the pressure
+        the same, the temperature will increase to compensate.
+        
+        V ∝ T
+    
+    Volume and Moles (Avogadro's Law)
+
+        If the Volume increases, then the amount of Moles will increase to compensate and keep the same pressure.
+
+        V ∝ n
+
+
+Maxwell-Boltzmann Distribution
+
+    Picture: https://en.wikipedia.org/wiki/Maxwell%E2%80%93Boltzmann_distribution#/media/File:Maxwell-Boltzmann_distribution_pdf.svg
+
+    X-axis = speed
+    Y-Axis = # of Molecules
+
+    Distribution of the number of the molecules over their speed.
+
+    Higher temperature = More kinetic energy
+
+    High temperature molecules will have a distribution closer to the right and it'll be more flat.
+
+    Low temperature molecules will have a distribution towards the left and will be more shape
+    (lots of molecules clumped at low speed)
+
+
+Real Gases vs Ideal Gases
+
+    Best Real Conditions (Results ≈ Expected) = High Temperature, High Volume
+    Least Ideal = Low Temperature, Low Volume
+
+    Higher temperatures would mean that the intermolecular forces that pull the
+    molecules together would be weaker
+
+    Higher volumes would mean that the volume the molecules themselves take
+    up would be negligible
+
+    Lower Than Ideal
+
+        Lower than ideal pressure means that there are stronger intermolecular
+        forces than the ideal. This leads to less molecules hitter the walls
+        and reducer the pressure even more.
+
+    Higher Than Ideal
+
+        Higher than ideal pressure means that the molecules are taking up more space
+        than ideal. This would cause them to hit the walls more since its more crampted,
+        increasing the pressure.
+
+
+Mixtures
+
+    Heterogenous/Solutions
+        Non-uniform Mixtures
+
+    Homogenous Mixtures/Solutions
+
+        Uniform Mixtures
+        Can be Solid, Liquid, Or Gas
+        Ex:
+            Salt water, Alloys
+
+
+Molarity
+
+    Concentration of Moles per Liter of Solutions
+
+    M = Molarity
+    
+    M = # of Moles / Liter
+
+    You can then use this to find the amount of moles in a liter, or amount of grams dissolved, etc.
+    By calculating number of moles then converting to grams, etc.
+        
+Molality
+    Not to be confused with Molarity
+
+    Molality = Moles / Kilogram
+
+
+Distillation 
+
+    Distillation is the act of separating components through taking advantage of different
+    boiling points. Typically, a liquid is heated such that only only component evaporates, it will
+    then be collected then condensed, separating the two components. 
+    You can also do multiple cycles to further distill it.
+
+    Distillation Curves
+
+        As you increase the temperature, you will typically begin seeing the first substance begin 
+        to boil. This will cause the temperature to plateu (cuz energy goes into breaking intermolecular
+        bonds and not increasing temp). Then, you will see the temperature begin to increase again once
+        all of the first co,ponent is boiled off. Then this will repeat for the other components.
+
+
+Thin-Layer Chromtography 
+
+    This separate components taking advantage of their polarity. First, a solution placed onto a polar
+    sheet of silica gel. Then, you place a less polar fluid at the bottom. This fluid will begin to move up
+    the silica gel through capillary action, pulling the solution along with it.
+
+    Components with high polarity will move less becuase it will interact and "stick" more to the silica gel.
+    Components will a lower polarity will move more since it will "stick" less than the polar components.
+
+    This can be measured with something called: Retention Factor
+        Its basicallly just:
+
+        Distance Travel by Component / Distance travled by fluid
+
+
+Solubility
+
+    Based on Khan Academy & AP Chemistry overview/study sheet linked at very top
+
+    Solute - Thing that is being dissolved
+    Solevent - The thing the solute is dissolved in
+
+    All you need to remember is: "Like dissolves Like"
+
+    Polar molecules will dissolve Polar molecules
+        More polar = More easily dissolved
+    
+    Non-polar molecules will dissolve non Polar Molecules
+        More non-polar = More easily dissolved
+    
+    Saturation
+
+        When an solution is saturated with solute, it will become more difficult 
+        to dissolve more solute. Until no more solute can be dissolved
+
+    Temperature
+
+        Temperature can also affect solubility depending weather the solvation reaction is
+        endothermic (takes in energy/heat) or exothermic (releases energy/heat)
+
+        Endothermic
+
+            Increasing the temperature in a endothermic solvation reaction will provide
+            more heat/energy for the reaction, increasing solubility
+
+        Endothermic
+
+            Increasing the temperature in a endothermic solvation reaction will provide
+            more heat/energy for the reaction, increasing solubility
+
+
+Spectroscopy
+
+    Electromagnetic Spectrum Image: https://en.wikipedia.org/wiki/Electromagnetic_spectrum#/media/File:EM_Spectrum_Properties_edit.svg
+
+    Electromagnetic Waves lie on a spectrum. 
+
+    Longer Wavelengths (Low Energy) will have LESS energy compared to Shorter Wavelengths (High Energy)
+    Longer Wavelengths also have a lower frequency while Shorter Wavelengths will have a high frequency
+
+
+    Exciting Electrons
+
+        When an photon "hits" an electron, if it has enough energy it will bump the electron 
+        to a higher energy level. (Depending on amount of energy it can be bumped multiple shells)
+
+        Higher Energy In = Higher Energy Out
+    
+
+Calculating Energy of a Photon
+
+    It can be calculated using the equations:
+
+        E = Energy
+        h = Planck Constant (6.626 * 10^-34)
+        f = Frequency
+        c = Speed of Light (2.998 * 10^8)
+        λ = Wavelength
+
+        E = h * f
+        c = λ * f
+
+        Energy = Planck Constant * Frequency
+        Speed of light = Wavelength * Frequency
+        
+
+        Since everything except the wavelength is a constant, you only need to know the wavelength
+        to find the energy. To find frequency given the wavelegnth, you can rearrange the second equation
+        to Frequency = Speed of Light / Wavelength AKA (f = c / λ). Now you can plug that into the first equation.
+        To make it simplier you can just make it:
+
+        E = (h * c) / λ
+
+        Ex:
+            You are given a wavelength of 500 nm 
+
+            Using the arranged equation: E = (h * c) / λ
+
+            E = ((6.626 * 10^-34) * (2.998 * 10^8)) / 5 * 10^2   ≈   3.973 * 10^-24 Joules
+
+Photoelectric Effect
+
+    If the energy of the photon is high enoguh (something like ultraviolet light), it can cause 
+    an electron to fully break away and be released. The energy required is the ionization energy
+    (yeah remember that) and the rest of the energy goes into the speed.
+
+
+
 
 
 Spectrophotometry (Concentration of Molecules and the absorbanence at each concentration)
 
-    Run a Blank (aka 0 concentration and 0 absorbanence)
-    Then have several known concentrations and their coressponding absorbanences
-    Next, draw the line of best fit 
-    Now you can determine absorbance of unknown concentrations :D 
+    Obviously, when light passes through an liquid some light will be loss since it'll be absorbed,
+    while the rest is transmitted.
+
+    The GREATER the concentration of solute, the GREATER the absorbance of light
+    The GREATER the path length (amount light travels), the GREATER the absorbance of light.
+
+    The rest of the light is transmitted, it can be measured using:
+
+        Transmittance is
+            Light Out / Light In
+
+    Absorbance is
+
+        -log10(Transmittance) OR -log10(Light Out / Light In)
+    
+
+    With this data, you can graph transmittance along with concentration
+    With these several known concentrations and their coressponding absorbanences, you can plot these
+    Next, draw the line of best fit for the points
+    Now you can determine absorbance of unknown concentrations :D (im going insane)
 
 
+    Concentration/Path length relationship with Absorbance is LINEAR
+    
+
+Beer-Lambert Law (ngl bro the wikipedia for this page looks scary)
+
+    Article: https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Spectroscopy/Electronic_Spectroscopy/Electronic_Spectroscopy_Basics/The_Beer-Lambert_Law
+
+    Determines the absorbance given path length and concentration, and a constant (different for each substance)
+
+    A = Absorbance
+    ε = Molar Absorptivity (Constant for each substance)
+    l = path length of light
+    c = concentration
+
+    A = ε * l * C
+
+    Absorbance = Molar Absorptivity * Light Path Length * Concentration
+
+    
+    And as with all equations, you can rearrange this to figure out missing values
+
+
+
+Congrats you finished the longest Unit in AP Chemistry
+
+
+UNIT 4
 
 Net Ionic Equations
 
@@ -987,6 +1408,8 @@ Stoichiometry
     3. Convert to Moles
     4. Convert using an mole ratio of elements (from equation)
     5. Convert to the final unit
+
+
 
 
 UNIT 5 
@@ -1054,7 +1477,7 @@ HOW TO FIND k (reaction constant)
     Moles^3
     now we need to get to Moles/Second by diving by Moles^2 * Seconds
 
-    Moles^3/Moles^2 * Seconds = Moles/Seconds
+    Moles^3/(Moles^2 * Seconds) = Moles/Seconds
 
     So here you get 1/Moles^2 * Seconds 
     also represented as Moles^-2 * seconds^-1
