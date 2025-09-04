@@ -16,6 +16,8 @@ Also this mega long AP chemistry overview: https://support.ebsco.com/LEX/AP-Chem
 additional videos that I found helpful will also linked for each section
 U can also search a certain topic and organic chem tutor or professor dave explains probably has a video on it
 
+
+
 AP Chemistry Notes
 
 Unit 0.5 Kinda
@@ -380,7 +382,7 @@ Potential Energy in Covalent Bonds
 
 
 Hund's Rule (Might be unit 1 idk)
-    I recommend watching the video linked above for better pictures
+    I recommend watching the video linked above for better pictures skip a little ahead (https://www.youtube.com/watch?v=Aoi4j8es4gQ)
 
     For each subshell (s, p, d, f), the electrons will be filled singly with paralell spins up
     
@@ -1352,63 +1354,287 @@ Beer-Lambert Law (ngl bro the wikipedia for this page looks scary)
 Congrats you finished the longest Unit in AP Chemistry
 
 
+
 UNIT 4
 
-Net Ionic Equations
+Notation stuff
+    aq = aqueous (Dissolved in liquid)
+    s = solid
+    g = gas
+    l = liquid
 
-IMPORTANT: Metal ions react WITH metal ions; non-metals react WITH non-metal ions
 
-There can be spectator ions these are NOT A PART OF THE EQUATION
-
-You need to balancce the amounts of each atom of the products and the reactants
-
-EX:
-    Mg, Cu2+ and Cl-
-    Cl- is an spectator ion since its an non metal
-
-    Mg -> Mg2+ + 2e-  Oxidation- Losing Electrons
-    2e- + Cu2+ -> Cu  Reduction- Gaining Electrons
+Polyatomic Ions (Just some info to know)
     
-    Mg(s) + Cu2+(aq) -> Mg2+(aq) + Cu(s)
+    Organic Chemistry Tutor-How to Memorize The Polyatomic Ions - Formulas, Charges, Naming: https://www.youtube.com/watch?v=FXBEh7nd9KQ
+    we're probably gonna be forced to memorize so lollll
+
+    Polyatomic ions are ions that contain multiple atoms
+    (Its in the name)
+    They (The polyatomic ion only, not the entire ionic molecule) are held together be covalent bonds.
+    Examples:
+        Hydroxide: OH-
+        Sulfate: SO₄²⁻
+        Nitrate: NO₃⁻
+        Phosphate: PO₄³⁻
+    
+    Something like:
+
+        Na₃PO₄
+        This is composed of 3 sodiums, and 1 phosphate (The phosphate contains one phosphorus and 4 oxygens)
+
+        So, it will break apart into: 3 sodium ions (3 Na⁺) and 1 phosphate (PO₄³⁻)
 
 
-Burning: Includes adding OXYGEN to an equation
+Ionic Equations
 
-EX:
-    Na + O2 -> Na2O
-    To balance oxygen we will mutiply right side by 2
+    GENERAL RULES 
 
-    Na + O2 -> 2 Na2O
-    To balance sodium will we multiply sodium by 4
+        The masses must be balanced on both sides (Aka u can't put 3 carbon in and get 5 out)
+        The charges must also be balanced on both sides
 
-    4 Na + O2 -> 2 Na2O
-    Final equation
+    Molecular Ionic Equations
 
-EX:
-    C3H8 + O2 -> CO2 + H2O
-    To balance C multiply by 3. To balance H multiply by 4
+        These are the standard equations with the neutral ions.
+        Ex:
+            NaCl(aq) + AgNO3(aq) -> NaNO3(aq) + AgCl(s)
 
-    C3H8 + O2 -> 3 CO2 + 4 H2O
-    To balance oxygen multiply O2 by 5
+    Complete Ionic Equations
 
-    C3H8 + 5 O2 -> 3 CO2 + 4 H2O
-    Final equation
+        These are the equations where it shows the ions are split from eachother by the water
+        (btw the things labeled as solid don't dissolve)
+        Ex:
+            Na+(aq) + Cl-(aq) + Ag+(aq) + NO3-(aq)  -->  Na+(aq) + NO3-(aq) + AgCl(s)
+    
+    Net Ionic Equations
 
-Sodium + Potassium OR Nitrate = Spectator ions
-Ions usually aqueous (If in a solution)
+        These are equations where the spectator ions are removed (Ions on both sides of equations)
+        Only molecules participating in the reaction are left 
+
+        Ex:
+            The equation from above will turn into
+
+            Cl-(aq) + Ag+(aq)--> AgCl(s)
+
+            As you can see the Na+ and the NO3- are removed from both sides
+        
+        
+Physical V.S Chemical Reactions
+
+    Chemical Changes 
+
+        Involves changing the compounds themselves through the breaking/making (Change composition)
+        of bonds, resulting in new substances
+
+    Physical Chanes
+
+        Changes in the state of the chemicals, no bonds are broken or made (No change compositon)
+
+
+Balancing Equations
+
+    Balancing equations is ensuring that you have an equal amount of each atom going in and out.
+    If you don't, you may multiply molecule so that it matches up.
+
+    EX:
+        Na + O2 -> Na2O
+        To balance oxygen we will mutiply right side by 2
+
+        Na + O2 -> 2 Na2O
+        To balance sodium will we multiply sodium by 4
+
+        4 Na + O2 -> 2 Na2O
+        Final equation
+
+    EX:
+        C3H8 + O2 -> CO2 + H2O
+        To balance C multiply by 3. To balance H multiply by 4
+
+        C3H8 + O2 -> 3 CO2 + 4 H2O
+        To balance oxygen multiply O2 by 5
+
+        C3H8 + 5 O2 -> 3 CO2 + 4 H2O
+        Final equation
 
 
 Stoichiometry
 
-    idk bro just use a lot of cancelling units to covert to Moles then proper units, then back to desired
-    will do more research so I have better understanding
+    This is basically finding out and balancing the equation
 
-    1. Get an balanced equation for an problem
-    2. Write your given information on the left and the wanted info on the right
-    3. Convert to Moles
-    4. Convert using an mole ratio of elements (from equation)
-    5. Convert to the final unit
+    Steps:
 
+        1. Ensure that you have an balanced equation, if you don't balance it
+
+
+        2. Convert your given units to moles (All work should also be done in moles)
+            Reminder:
+                To convert grams to moles, find the molar mass of the molecule (grams/mole).
+                Then you can divide it by the grams.
+                Example: 
+                H2O would have a molar mass of 18.015 grams/mole
+                since it is composed of 2 hydrogens (1.008 grams each) and 1 oxygen (15.999 grams)
+                when you add these up you get 18.015 grams/mole (OR 1 mole/18.015)
+
+                If you have 50 grams you divide by 18.015 grams to get 2.775 moles of H2O
+        
+
+        3. Find the amount of moles for the other molecules using the mole ratio
+
+            The mole ratio will be in the balanced equation. 
+            For example, 4 CH4 + 3 H2O -> whatever product
+
+            The mole ratio between H2O and CH4 will be:
+            3 moles H2O / 4 moles CH4
+            (This basically says for every 4 moles of CH4, there will be 3 moles of H2O)
+
+            Reciprical:
+            4 Moles CH4 / 3 Moles H2O
+            (This basically says for every 3 moles of H2O, there will be 4 moles of CH4)
+
+            So if you have 2.775 moles of H2O, to find the number of moles of CH4 you would do 
+            2.775 Moles H2O * (4 Moles CH4 / 3 Moles H2O) = 3.7 moles of CH4
+
+            You can see that the units of Moles H2O will be cancled out, leaving you with CH4
+
+
+        4. Convert back to grams
+
+            You can then convert back to grams using the molar mass. 
+            For example, 3.7 moles of CH4 would be 3.7 moles * (16.043 grams / mole) = 59.36 grams
+
+
+Limiting Reactants
+
+    Organic Chemistry Tutor-Stoichiometry - Limiting & Excess Reactant, Theoretical & Percent Yield: https://www.youtube.com/watch?v=CK2yK_JTUH4
+
+    In some situations, you don't always have the exact amount of molecules to cleanly complete the reaction.
+    Sometimes, you might have too much of one reactant or too little of another.
+
+    Limiting Reactant = Reactant fully consumed (Too little compared to other reactant)
+
+    Excess Reactant = Reactant not fully consumed (Too much compared to other reactant)
+
+    Finding the Limiting Reactant
+
+        Method 1: Dividing Moles by Coefficent
+
+            If you have the moles for each reactant, you can divide the moles by the coefficent in the equation.
+            The lower quotient will be the limiting reactant while the higher quotient will be the excess reactant.
+
+            This is because what your doing is basically calculating how many times an reaction can occur. 
+            With the example: 4 CH4 + 3 H2O
+
+            If you have 8 moles of CH4, 8/4 = 2, means the reaction can be done 2 times fully.
+            If you have 7 moles of H2O, 7/3 = 2 1/3; this means the reaction can be done 2 1/3 times fully.
+
+            So, in this case the CH4 will be limiting reactant, since it can only be completed 2 times fully with the amount
+            that we have. While the H2O is the excess reactant, since it can occur 2 1/3 times fully with the amount we have
+        
+        
+         Method 2: Using Mole Ratios 
+
+            Essentially, we are going to find how much of the other reactant is needed for our given amount.
+            Using 4 CH4 + 3 H2O:
+
+                The mole ratio between these is 3 moles H2O / 4 moles CH4
+
+                In the case we have 7 moles H2O and 8 moles CH4, so we can do 8 Moles CH4 * (3 moles H2O / 4 moles CH4) = 6 moles H2O needed
+                (Make sure the units of the molecules cancel out so that you get the desired result)
+
+                In, this case, we have more than enough H2O, so it shall be the excess reactant.
+                So, CH4 will be the limting reactant
+        
+
+        Method 3: Theoretical Yield
+
+            Here, you will compare the theoretical amount of yield for each amount of reactant
+            Then, the reactant the results in the LOWER theoretical yield will be the limting reactant
+            Using 2 Al + 3 Cl2 -> 2 AlCl3:
+
+            Lets say we have 5 moles of Al and 6 moles of Cl2.
+
+            Theoretical Yield for 5 moles Al:
+
+                We can see that for every 2 moles of Al we will have 2 moles of product. Basically 1 : 1
+                The ratio can be: 2 moles AlCl3 / 2 moles Al
+
+                5 moles Al * (2 moles AlCl3 / 2 moles Al) = 5 moles AlCl3
+
+            Theoretical Yield for 6 moles Cl2
+
+                We can see for every 3 moles of Cl2 we can 2 moles of product
+                The ratio will be: 2 moles AlCl3 / 3 moles Cl2
+
+                6 moles Cl2 * (2 moles AlCl3 / 3 moles Cl2) = 4 moles AlCl3
+
+            
+            We can see that 6 moles Cl2 will result in LESS product, so it is the limiting reactant.
+            While the 5 moles of Al will be the excess reactant
+
+
+Percent Yield
+
+    Percent Yield = (Actual Yield / Theoretical Yield) * 100
+
+    Multiplied by 100 to convert to percent
+
+        
+Reduction-Oxidation (Redox) Reactions
+    
+    Redox Reactions are reaction where electrons are transferred
+    
+    Professor Dave Explains Video-Oxidation-Reduction Reactions: https://www.youtube.com/watch?v=VXvtkwubQQg
+
+    Reduction = Gaining of electrons 
+    Oxidation = Losing of electrons 
+
+    
+    Oxidation Numbers
+
+        These are hypothetical charge values for each atom (as if it was in a ionic bond)
+        These are notated with the negative/positive in front of the number
+
+        Some Guidelines
+
+        1. Elements always have a charge of 0 (H, O2, Ag, Cl, 4Fe, etc)
+
+        2. Monoatomic ions have a oxidation number the same as its charge (Fe^2+ is +2)
+
+        3. In neutral molecules, oxidation numbers add up to 0 (CO2, 4 - 4 = 0)
+
+        4. Oxygen usually has a oxidation number of -2
+
+        5. In polyatomic ions, the oxidation numbers must add up to the charge (NO₃⁻, 5 + (-2 * 3) = -1)
+
+        6. Hydrogen is almost always +1
+
+
+    Identifing Redox Reactions
+
+        You can list the oxidation states of each molecule involved in the reaction. If they
+        change (before vs after reaction), then it's a redox reaction. This is because it involved a change 
+        in electrons
+    
+
+    Balancing Redox Reactions
+
+        this is kinda long, so im not gonna write anything here for now (maybe get back to it later)
+        
+        Khan Academy Article: https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:chemical-reactions/x2eef969c74e0d802:oxidation-reduction-redox-reactions/a/oxidation-reduction-redox-reactions
+        Organic Chemistry Tutor- Oxidation and Reduction Reactions - Basic Introduction: https://www.youtube.com/watch?v=dF5lB7gRtcA
+
+        These are the basic steps:
+          
+            1. Write the half reactions.
+            2. Balance the atoms other than O and H.
+            3. Balance the oxygens by adding H2O.
+            4. Balance the hydrogens by adding H+.
+            5. Balance the charges by adding electrons.
+            6. Make the number of electrons equal, and add the half reactions.
+            7. Neutralize the H+ by adding OH-, creating H2O  (DO THIS STEP ONLY IF ITS A BASIC SOLUTION)   
+
+
+Acid and Bases
 
 
 
